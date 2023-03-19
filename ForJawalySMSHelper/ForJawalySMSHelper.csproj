@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>HoloolAR.ForJawalySMSHelper</PackageId>
+    <Title>ForJawalySMSHelper</Title>
+    <Company>HoloolAR</Company>
+    <Description>send SMS messages to one or more phone numbers with 4jawaly API by API secret , API key and sender name</Description>
+  </PropertyGroup>
+
+</Project>
