@@ -9,7 +9,7 @@
 
 <h2> how to use package</p2>
 <h6>1. install package in your project</h6>
-you can install package from nuget packages : 
+you can install package from nuget packages : <a href="https://www.nuget.org/packages/HoloolAR.ForJawalySMSHelper">HoloolAR.ForJawalySMSHelper</a>
 
 <h6>2. Send messages as shown in the code</h6>
  <code>
@@ -24,7 +24,7 @@ var numbers = new List<string>() { "XXXXXXXXXXX","XXXXXXXXX" };
   };
 _4jawalyRoot result = await ForJawalySMS.SendSms(root);
 </code>
-<h6>Find out how to use the library through a console program : <a target="blank" href="https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage">https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage</a></h6>
+<h6>Find out how to use the library through a console app : <a target="blank" href="https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage">https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage</a></h6>
 
 
 
