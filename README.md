@@ -24,7 +24,7 @@ var numbers = new List<string>() { "XXXXXXXXXXX","XXXXXXXXX" };
   };
 _4jawalyRoot result = await ForJawalySMS.SendSms(root);
 </code>
-
+<h6>Find out how to use the library through a console program : <a target="blank" href="https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage">https://github.com/ahmmedsobh/SendMessagesBy4jawalyPackage</a></h6>
 
 
 
